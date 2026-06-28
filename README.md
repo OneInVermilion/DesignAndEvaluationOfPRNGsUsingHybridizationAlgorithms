@@ -138,6 +138,4 @@ Germany, Potsdam, Innovation Campus
 
 Business Department, Software Engineering
 
-Department of Computer Science
-
-2026
+June 2026
